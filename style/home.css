@@ -1,0 +1,212 @@
+/* -------------------------------------------HELLO_BLOK ----------------------------------*/
+
+.hello {
+	margin: 205px 0 0 0;
+	background-color: #fff;
+}
+
+.hello-body {
+	display: flex;
+	justify-content: space-between;
+	height: 100%;
+	width: 100%;
+	padding: 0 0 71px 0;
+}
+
+.hello-item {
+	max-width: 506px;
+	max-height: 296px;
+}
+
+.hello-title {
+	font-weight: bold;
+	font-size: 44px;
+	line-height: 60px;
+	color: #21243D;
+}
+
+.hello-info {
+	font-size: 16px;
+	line-height: 23px;
+	color: #21243D;
+}
+
+.hillo-btn {
+	margin: 38px 0 0 0;
+	height: 47px;
+	width: 208px;
+	background-color: #FF6464;
+	border-radius: 2px;
+}
+
+.hillo-btn a {
+	display: block;
+	padding: 14px 21px 15px 20px;
+	font-weight: 500;
+	font-size: 20px;
+	color: #FFF;
+	transition: 0.2s linear;
+}
+
+.hillo-btn a:hover {
+	background: #e05454;
+}
+
+.avatar {
+	box-shadow: -5px 13px 0 #EDF7FA;
+	border-radius: 50%;
+	width: 243px;
+	height: 243px;
+}
+
+/* --------------------------------POSTS------------------------------------ */
+
+.posts {
+	background: #EDF7FA;
+	padding: 0 0 32px 0;
+}
+
+.posts-body {}
+
+.posts-header {
+	display: flex;
+	justify-content: space-between;
+	padding: 24px 0;
+}
+
+.posts-title {
+	font-size: 22px;
+	color: #21243D;
+}
+
+.posts-header-link {
+	font-size: 16px;
+	color: #00A8CC;
+	transition: 0.2s linear;
+}
+
+.posts-header-link:hover {
+	color: #007792;
+}
+
+.posts-carts {
+	display: flex;
+	margin: 0 -10px;
+}
+
+.post-cart {
+	background: #FFF;
+	border-radius: 4px;
+	max-width: 418px;
+	width: 100%;
+	margin: 0 10px;
+	padding: 24px 21px 7px 23px;
+}
+
+.post-cart-title {
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 38px;
+	color: #21243D;
+	margin: 0 0 17px 0;
+}
+
+.post-cart-date-and-author {
+	display: flex;
+	font-size: 18px;
+	color: #21243D;
+	margin: 0 0 11px 0;
+}
+
+.cart-date {}
+
+.date-decor-line {
+	display: block;
+	background: #21243D;
+	width: 1px;
+	height: 21px;
+	margin: 0 20px;
+}
+
+.cart-author-about {}
+
+.post-cart-info {
+	padding: 0 0 18px 0;
+	font-size: 16px;
+	line-height: 23px;
+	color: #21243D;
+}
+
+/* -----------------------------------WORKS-BLOK--------------------------------- */
+
+.works {
+	background: #fff;
+}
+
+.works-body {
+	margin: 66px 0 0 0;
+}
+.works-body-title{
+	display: none;
+}
+.works-kart-line-blok {
+	margin: 31px 0 0 0;
+}
+
+.works-cart {
+	width: 100%;
+	min-height: 204px;
+	display: flex;
+}
+
+.works-cart-img img{
+		padding: 0 18px 0 0;
+		display: block;
+		border-radius: 6px;
+		min-height: 180px;
+}
+
+.works-cart-item {}
+
+.works-cart-title {
+	font-weight: bold;
+	font-size: 30px;
+	color: #21243D;
+	margin: 0 0 16px 0;
+}
+
+.year-and-project {
+	margin: 0 0 17px 0;
+}
+
+.works-cart-year {
+	font-weight: 900;
+	font-size: 18px;
+	color: #fff;
+	width: 62px;
+	height: 25px;
+	background: #142850;
+	border-radius: 16px;
+	padding: 3px 10px;
+	margin: 0 26px 0 0;
+}
+
+.works-cart-project {
+	font-size: 20px;
+	color: #8695A4;
+}
+
+.works-cart-info {
+	font-size: 16px;
+	line-height: 23px;
+	color: #21243D;
+}
+
+.works-cart-line {
+	display: block;
+	justify-content: start;
+	background: #E0E0E0;
+	height: 0px;
+	border: 1px solid #E0E0E0;
+	margin: 0 0 31px 0;
+}

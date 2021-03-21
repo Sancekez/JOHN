@@ -1,0 +1,49 @@
+@import url('normalaiz.css');
+@import url('header.css');
+@import url('home.css');
+@import url('blog.css');
+@import url('works.css');
+@import url('footer.css');
+
+
+@import url('media-main.css');
+
+body {
+	font-family: Heebo;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.wrap-container {
+	max-width: 1032px;
+}
+
+.container {
+	max-width: 856px;
+	margin: 0 auto;
+	padding: 0 10px;
+}
+
+.main {
+	margin: 92px 0 0 0;
+	min-height: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

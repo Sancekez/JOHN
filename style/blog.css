@@ -1,0 +1,51 @@
+
+.blog-body{
+	margin: 0 auto;
+}
+.title-bold {
+	font-weight: bold;
+	font-size: 44px;
+	line-height: 60px;
+	color: #21243D;
+	margin: 0 0 55px 0;
+}
+.blog-cart{
+	max-width: 682px;
+}
+.decor-underline{
+	display: block;
+	height: 0;
+	border: 1px solid #E0E0E0;
+	max-width: 682px;
+	margin: 0 0 32px 0;
+}
+.blog-cart-title {
+	font-weight: bold;
+	font-size: 26px;
+	line-height: 38px;
+	color: #21243D;
+	margin: 0 0 17px 0;
+}
+.blog-cart-date-and-author {
+	font-size: 16px;
+	color:#21243D;
+	display: flex;
+	margin: 0 0 11px 0;
+}
+.date-decor-line {
+	display: block;
+	background: #21243D;
+	width: 1px;
+	height: 21px;
+	margin: 0 20px;
+}
+.blog-author-about {
+	font-size: 16px;
+	color: #8695A4;
+}
+.blog-cart-info {
+	padding: 0 0 18px 0;
+	font-size: 16px;
+	line-height: 23px;
+	color: #21243D;
+}

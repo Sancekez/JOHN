@@ -1,0 +1,63 @@
+.page-work {
+	background: #fff;
+	margin:0 0 43px 0;
+}
+.page-works-kart-line-blok {
+	margin: 31px 0 0 0;
+}
+
+.page-works-cart {
+	width: 100%;
+	min-height: 204px;
+	max-width: 682px;
+	display: flex;
+}
+
+.page-works-cart-img img{
+		padding: 0 18px 0 0;
+		display: block;
+		border-radius: 6px;
+		min-height: 180px;
+}
+.page-works-cart-title {
+	font-weight: bold;
+	font-size: 30px;
+	color: #21243D;
+	margin: 0 0 16px 0;
+}
+
+.page-works-year-and-project {
+	margin: 0 0 17px 0;
+}
+
+.page-works-cart-year {
+	font-weight: 900;
+	font-size: 18px;
+	color: #fff;
+	width: 62px;
+	height: 25px;
+	background: #142850;
+	border-radius: 16px;
+	padding: 3px 10px;
+	margin: 0 26px 0 0;
+}
+
+.page-works-cart-project {
+	font-size: 20px;
+	color: #8695A4;
+}
+
+.page-works-cart-info {
+	font-size: 16px;
+	line-height: 23px;
+	color: #21243D;
+}
+
+.page-works-cart-line {
+	display: block;
+	justify-content: start;
+	background: #E0E0E0;
+	height: 0px;
+	border: 1px solid #E0E0E0;
+	margin: 31px 0 41px 0;
+}

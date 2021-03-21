@@ -1,0 +1,23 @@
+/* -------------------------------FOOTER--------------------------------- */
+
+.footer {
+	background: fff;
+}
+
+.footer-item {
+	text-align: center;
+	margin: 130px 0 0 0;
+	padding: 0 0 60px 0;
+}
+
+.social-links {
+	margin: 0 0 25px 0;
+	text-align: center;
+}
+
+.footer-icon {
+	display: inline-block;
+	margin: 0 15px;
+}
+
+.Copyright {}
